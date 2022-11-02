@@ -1,3 +1,3 @@
-# demo git
+# Demo git
 
 Hello 
